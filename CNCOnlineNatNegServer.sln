@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ra3NatNegServer", "CNCOnlineNatNegServer\Ra3NatNegServer.csproj", "{D3BB4E13-26A4-4353-B9F3-E796EBA356B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BB4E13-26A4-4353-B9F3-E796EBA356B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BB4E13-26A4-4353-B9F3-E796EBA356B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BB4E13-26A4-4353-B9F3-E796EBA356B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BB4E13-26A4-4353-B9F3-E796EBA356B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985E6B8E-F76B-43BF-96DF-ECB1AA053E6E}
+	EndGlobalSection
+EndGlobal
